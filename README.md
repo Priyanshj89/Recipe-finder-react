@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It finds recipe as per the search input by making an api request to the EDAMAM. Basic styling and functionality
 ## Available Scripts
 
 In the project directory, you can run:
